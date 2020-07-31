@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767026877503",
+    "firebase_url": "https://chitchat-ee4dd.firebaseio.com",
+    "project_id": "chitchat-ee4dd",
+    "storage_bucket": "chitchat-ee4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767026877503:android:e2a2452b9f5eba5414548a",
+        "android_client_info": {
+          "package_name": "com.shekhartroman.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767026877503-5glr5jmbpsi4h6c3ctte43pg9pb8dbc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHcpylPjj5T4lLB1tpzuftWgYwty-4Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767026877503-5glr5jmbpsi4h6c3ctte43pg9pb8dbc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
